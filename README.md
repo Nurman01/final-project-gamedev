@@ -1,31 +1,37 @@
-# Asteroid Space Game
-Welcome to the Asteroid Space Game! This visually stunning space adventure is created with Python and the Pygame module, making it ideal for intermediate Python developers looking to improve their skills.
+# CODE IN PLACE 2024 PROJECT
 
-How to Play
+## 🚀 Asteroid Space Game
+
+Welcome to the **Asteroid Space Game**! This visually stunning space adventure is created using **Python** and the **Pygame** module. It's perfect for intermediate Python developers looking to enhance their skills.
+
+---
+
+## 🎮 How to Play
+
 Control the spaceship using the following keys:
 
-Up Arrow: Move forward.
-Down Arrow: Stop the ship.
-Right Arrow: Rotate right.
-Left Arrow: Rotate left.
-Space Bar: Shoot at asteroids.
-Left Ctrl: Accelerate to high speed (cheat code).
-Q: Exit the game.
-P: Pause or resume the game.
-R: Restart after a Game Over.
-Installation and Running
-Prerequisites:
+- **↑ Up Arrow:** Move forward.
+- **↓ Down Arrow:** Stop the ship.
+- **→ Right Arrow:** Rotate right.
+- **← Left Arrow:** Rotate left.
+- **Space Bar:** Shoot at asteroids.
+- **Left Ctrl:** Accelerate to high speed (cheat code).
+- **Q:** Exit the game.
+- **P:** Pause or resume the game.
+- **R:** Restart after a Game Over.
 
-Python 3.x must be installed on your computer.
-Installing Pygbag:
+---
 
-Open a terminal window.
+## 💻 Installation and Running
 
-Execute the following command to install Pygbag via pip:
+### Prerequisites
 
-bash
-Копировать
-Редактировать
-pip install pygbag
-Important:
-Make sure all game files (images, sounds, and the Python script) are located in the same directory.
+- Ensure you have **Python 3.x** installed on your system.
+
+### Installing Pygbag
+
+1. Open a terminal window.
+2. Run the following command to install Pygbag using pip:
+
+   ```bash
+   pip install pygbag

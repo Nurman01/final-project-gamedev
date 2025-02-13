@@ -1,5 +1,3 @@
-# CODE IN PLACE 2024 PROJECT
-
 ## 🚀 Asteroid Space Game
 
 Welcome to the **Asteroid Space Game**! This visually stunning space adventure is created using **Python** and the **Pygame** module. It's perfect for intermediate Python developers looking to enhance their skills.
